@@ -1,0 +1,8 @@
+path: C:\Users\vishwa\Desktop\custom\train_data
+train : images\train
+val: images\val
+
+nc: 2
+names:
+  0: CR7
+  1: Messi
